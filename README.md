@@ -13,3 +13,15 @@
 - SecretNumber.java
 - PrimeNumbers.java
 - DivisibleBy7And11.java
+
+## Day 1 - Java Practice Questions
+- Account.java
+- DynamicPattern.java
+- Employee.java
+- HammingWeight.java
+- HeartPattern.java
+- PowerOfTwo.java
+- PyramidPattern.java
+- ReverseNumber.java
+- Student.java
+- ThisKeywordDemo.java
