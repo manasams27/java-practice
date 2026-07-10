@@ -2,10 +2,10 @@ public class Student {
     String name;
     int age;
     String email;
-    public Student(String name, int age, String email){
+    public Student(String name, int age, String email){ 
         this.name = name;
         this.age = age;
-        this.email = email;
+        this.email = email;   
     }
     void display(){
         System.out.println("Name " + this.name);
