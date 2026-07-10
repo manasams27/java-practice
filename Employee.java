@@ -1,4 +1,5 @@
 public class Employee {
+<<<<<<< HEAD
     //Atributes | Fields | Instance Variables | Properties | Variables
     int id;
     String name;
@@ -28,4 +29,24 @@ public class Employee {
     }
 
     
+=======
+    //Private Access Modifiers 
+    // for encapsulation
+    private String name;
+    private int salary;
+    //setters => void
+    public void setName(String name){
+        this.name = name;
+    }
+    public void setSalary(int salary){
+        this.salary = salary;
+    }
+    //getters => based on vars
+    public String getName(){
+        return this.name;
+    }
+    public int getSalary(){
+        return this.salary;
+    }
+>>>>>>> b2dc857 (Java Practiced codes)
 }
